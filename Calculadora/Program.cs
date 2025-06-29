@@ -92,15 +92,7 @@ namespace Calculadora
                     }
 
 
-                }     
-                    
-
-
-
-
-
-
-
+                }
                 catch (FormatException)
                 {
                     Console.WriteLine("Entrada inválida. Por favor, insira um número válido.");
